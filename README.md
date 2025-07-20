@@ -24,7 +24,7 @@ cognitive_diagnosis_class_clustering/
 │   ├── encoded_class.csv
 │   └── clustered_class.csv
 ├── image/
-│   ├── sample_cluster_output.png
+│   └──  sample_cluster_output.png
 ├── notebook/
 │   ├── 01_preprocessing.ipynb
 │   ├── 02_kmodes_clustering.ipynb
